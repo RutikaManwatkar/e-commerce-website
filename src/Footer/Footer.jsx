@@ -52,7 +52,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="right_copy">
-                <span className="copy">&copy; Sayyed Dilshad Ali. All rights reserved.</span>
+                <span className="copy">&copy; Rutika Manwatkar. All rights reserved.</span>
             </div>
         </div>
     </footer>
